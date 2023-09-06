@@ -7,7 +7,6 @@
 <body>
     <div>
         <img src="homepage.png" alt="Generic Background">
-        <!-- Your content here -->
         <div class="button-container">
             <a href="projects">
                 <button class="home_buttons">Projects</button>
@@ -15,9 +14,11 @@
             <a href="resume">
                 <button class="home_buttons">Resume</button>
             </a>
+            <!--
             <a href="contact_me">
                 <button class="home_buttons">Contact</button>
             </a>
+        -->
         </div>
     </div>
 </body>

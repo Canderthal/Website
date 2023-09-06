@@ -5,8 +5,62 @@
     <link rel="stylesheet" type="text/css" href="home_page.css">
 </head>
 <body>
+    <h1>James King</h1>
+    <h2>Professional Summary</h2>
+        <h3>My experience in coding, although cultivated during my free time, has honed my problem
+            solving skills, time management abilities, and leadership qualities. I am eager to leverage
+        these skills to contribute effectively to Electronic Arts and its goals. My experience outside
+        of the technical world gives me the unique ability to problem-solve dynamically and work
+        under pressure
+        </h3>
+    <h2>Education</h2>
+        <h3>
+            <ul>
+                <li>Unreal Engine 5 C++ Developer</li>
+                <li>C++ For Game Development</li>
+                <li>Automate The Boring Stuff With Python Programming</li>
+                <li>100 Days of Code: THe complete Python Pro Bootcamp</li>
+            </ul>
+        </h3>
+    <h2>Technical Skills</h2>
+    <h3>
+        <ul>
+            <li>Programming Languages: Python(Strongest Language), C++</li>
+            <li>Development Tools: Unreal Engine 5, Blender, 
+                Photoshop, Node Editing, Autodesk(Fusion360)
+        </ul>
+    </h3>
+    <h2>Personal Experince</h2>
+    <h3>Unnamed Survial Game (2022-2023)</h3>
+    <h4>
+        <ul>
+            <li>Utilized Unreal Engines blueprint editing to add destructible assets, equipable items, and
+                harvestable resources</li>
+            <li>Utilized Quixel Bridge to build beautiful environments</li>
+            <li>Designed and impletented the player inventory system</li>
+            <li>Desgined the player UI</li>
+        </ul>
+    </h4>
+    <h2>Work Experince</h2>
+    <h3>In-Sync Dog Training: Professional Dog Trainer 01/2020 to Current</h3>
+    <ul>
+        <li>Taught and developed the obedience program</li>
+        <li>Used critical thinking to solve client challenges</li>
+        <li>Developed and provided documentation on the lessons being provided</li>
+        <li>Managed classrooms with different skill sets 
+            to ensure goals are met throughout the class</li>
+        <li>Mentored peers, assisting with and growling their knowledge</li>
+    </ul>
+    <h3>Canadian Armed Forces: Armored Crewman 01/2013 to 07/2021</h3>
+    <ul>
+        <li>Designing and building virtual simulations used for Squadron training exercises</li>
+        <li>Provided technical support, maintenance, and repairs</li>
+        <li>Planning and teaching lessons along with presentations</li>
+        <li>Overseeing, managing, and directing subordinate's daily tasks</li>
+    </ul>
+
+
     <div>
-        <img src="homepage.png" alt="Generic Background">
         <!-- Your content here -->
         <div class="button-container">
             <a href="home">
@@ -18,9 +72,11 @@
             <a href="resume">
                 <button class="home_buttons">Resume</button>
             </a>
+            <!--
             <a href="contact_me">
                 <button class="home_buttons">Contact</button>
             </a>
+        -->
         </div>
     </div>
 </body>

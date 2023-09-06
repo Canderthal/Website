@@ -18,9 +18,11 @@
             <a href="resume">
                 <button class="home_buttons">Resume</button>
             </a>
+            <!--
             <a href="contact_me">
                 <button class="home_buttons">Contact</button>
             </a>
+            -->
         </div>
     </div>
 </body>
